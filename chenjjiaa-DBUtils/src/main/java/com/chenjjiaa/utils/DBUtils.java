@@ -9,7 +9,6 @@ import java.sql.*;
  * Date：    2022/10/12 19:04
  * WeChat：  China_JoJo_
  * Blog：    https://juejin.cn/user/1856417285289304/posts
- * Github：  https://github.com/chenjjiaa
  */
 public class DBUtils {
     private String URL;
